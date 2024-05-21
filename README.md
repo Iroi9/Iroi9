@@ -1,4 +1,4 @@
-[<p align="left">Hello World!!</p>
+<p align="left">Hello World!!</p>
 
 ###
 
@@ -46,4 +46,4 @@
 </div>
 
 ###
-](https://www.twitch.tv/iroi9)
+(https://www.twitch.tv/iroi9)]
